@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "module": "^0.0.1",
+    "node": "^18.20.0",
+    "node.js": "^0.0.1-security",
+    "react-scripts": "^5.0.1"
+  }
+}
